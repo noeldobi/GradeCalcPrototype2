@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GradeCalc</string>
+    <string name="InputResults">Insert Subjects and Grades</string>
+    <string name="PredictionScreen">Results</string>
+</resources>
